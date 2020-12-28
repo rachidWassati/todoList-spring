@@ -1,0 +1,10 @@
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/config/WebAppInitializer.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/config/WebConfig.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/utils/Mappings.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/model/TodoItem.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/model/TodoData.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/controller/TodoController.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/service/ITodoService.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/utils/AttributeNames.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/service/TodoService.java
+/home/rachidj/Dropbox/JavaMaven/todoList_2/src/main/java/org/rachidj/utils/ViewNames.java

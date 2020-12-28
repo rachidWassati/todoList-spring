@@ -1,0 +1,10 @@
+org/rachidj/utils/ViewNames.class
+org/rachidj/config/WebConfig.class
+org/rachidj/model/TodoItem.class
+org/rachidj/utils/Mappings.class
+org/rachidj/service/TodoService.class
+org/rachidj/config/WebAppInitializer.class
+org/rachidj/utils/AttributeNames.class
+org/rachidj/controller/TodoController.class
+org/rachidj/service/ITodoService.class
+org/rachidj/model/TodoData.class
